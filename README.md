@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, seja bem vindo! 🇧🇷
 
 <!--
 **Professor-Rafael-Damico/Professor-Rafael-Damico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
